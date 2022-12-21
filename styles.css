@@ -1,0 +1,16 @@
+#house{
+    position:absolute;
+    left: 30;
+    top: 50;
+    width: 100;
+    
+}
+#descriptions{
+    color:white
+}
+
+#laptop{
+    position:absolute;
+    align-items: center;
+    width: 500px;
+}
